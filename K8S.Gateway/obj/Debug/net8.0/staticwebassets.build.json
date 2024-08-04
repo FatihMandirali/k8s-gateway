@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ddCGi3ZBnRsT6FbkOzg9dMbhQkXLnlp1COB4PsTCDgQ=",
+  "Source": "K8S.Gateway",
+  "BasePath": "_content/K8S.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

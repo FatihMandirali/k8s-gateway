@@ -1,0 +1,6 @@
+@K8S.Gateway_HostAddress = http://localhost:5036
+
+GET {{K8S.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
